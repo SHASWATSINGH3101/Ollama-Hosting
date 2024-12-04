@@ -1,5 +1,5 @@
 
-![image (3)](https://github.com/user-attachments/assets/7b60a31a-b839-4d9d-be02-c4ce27b7fe5b)
+![image (3)](https://github.com/SHASWATSINGH3101/Ollama-Hosting/blob/main/assets/Readme.png)
 
 
 
